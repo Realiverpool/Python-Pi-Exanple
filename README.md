@@ -1,2 +1,2 @@
 # Python-Pi-Exanple
-this is an examples
+this is an example project to bla bla blas
